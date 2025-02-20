@@ -1,0 +1,35 @@
+[
+    {
+        "id": "featured-project-cnc",
+        "title": "Clean & Click",
+        "year": "Dec 2024",
+        "location": "Jakarta",
+        "demo": "https://clean-n-click-application.vercel.app/",
+        "github": "https://github.com/Foskaa/Clean_and_Click",
+        "tags": ["NextJs", "TypeScript", "NodeJS","MidTrans", "Google Maps", "Leaflet","MySQL", "RajaOngkir","SupaBase","Vercel","Railway"],
+        "description": "An online laundry service with pickup options for customers. Designed for customers, workers, and drivers.",
+        "readMore": "https://www.canva.com/design/DAGc0fYTFgU/nzvgUYmj-B5rAc4elqF9rA/",
+        "image": "/assets/featured-projects/cleannclick1.webp",
+        "jpg": "/assets/featured-projects/cleannclick1.jpg"
+    },
+    {
+        "id": "featured-project-ticket",
+        "title": "TiketBox",
+        "year": "Novmber 2024",
+        "location": "Jakarta",
+        "demo": "",
+        "github": "https://github.com/Foskaa/MiniProject",
+        "tags": [
+            "NextJs",
+            "TypeScript",
+            "NodeJS",
+            "MidTrans",
+            "MySQL",
+            "SupaBase"
+        ],
+        "description": "Ticket Event E-Commerce where the event organizer can create events and customer can buy the tickets",
+        "readMore": "https://www.canva.com/design/DAGW0RAwT4k/Cdr9qhScfhtkIB7rKJ3jaQ/",
+        "image": "/assets/featured-projects/tiketbox1.webp",
+        "jpg": "/assets/featured-projects/tiketbox1.jpg"
+    }
+]

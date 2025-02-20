@@ -1,0 +1,3 @@
+As a motivated professional transitioning from sales 📈 to web development 👨🏻‍💻, I bring a strong mix of technical skills and **client-focused experience**. My sales background has sharpened my **problem-solving** and **communication abilities**, enabling me to create **user-friendly**, **responsive websites**. Proficient in NextJs, HTML, CSS, JavaScript, and familiar with modern frameworks, I’m eager to contribute to dynamic teams and deliver effective digital solutions.
+
+Beyond coding, my passion for hiking ⛰️ and photography 📷 has honed my attention to **detail** and **creativity—skills** that translate into designing visually appealing and intuitive web experiences.

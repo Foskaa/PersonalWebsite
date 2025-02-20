@@ -1,0 +1,120 @@
+{
+    "educations": [
+        {
+            "id": "edu-1",
+            "school": "Purwadhika",
+            "degree": "Full Stack Web Development",
+            "duration": "Aug 2024 - Jan 2025",
+            "content": [
+                "Final Score: 91/100",
+                "Courses: Fundamental Javascript, Back-End Development, Front-End Development"
+            ]
+        },
+        {
+            "id": "edu-2",
+            "school": "Trisakti School of Management",
+            "degree": "Bachelors in Marketing Management",
+            "duration": "Aug 2015 - Jan 2019",
+            "content": [
+                "GPA: 3.67/4"
+            ]
+        },
+        {
+            "id": "edu-3",
+            "school": "SMK Bonavita",
+            "degree": "Multimedia",
+            "duration": "Jul 2012 - Jun 2015",
+            "content": [
+                "Courses: Design, Photography & Videography"
+            ]
+        }
+    ],
+    "experiences": [
+        {
+            "id": "exp-1",
+            "company": "PT. Global Digital Niaga (Blibli)",
+            "position": "Senior Merchandiser Officer ",
+            "duration": "July - August 2024",
+            "description": [
+                "Handling SMB and EPP Project for Samsung."
+            ]
+        },
+        {
+            "id": "exp-2",
+            "company": "PT. Erajaya Swasembada Tbk",
+            "position": "E-Commerce Key Account Supervisor Ops",
+            "duration": "Jun 2020 - Jun 2021",
+            "description": [
+                "Developing a solid relationship and communication between internal teams​",
+                "Planning and presenting reports on account progress, goals, and initiatives to share with team members, and key clients.",
+                "Working closely with internal, external, and cross functional teams to ensure all the material produce and support has the finest quality."
+            ]
+        },
+        {
+            "id": "exp-3",
+            "company": "MyRepublic Indonesia",
+            "position": "Branch Manager Development Program",
+            "duration": "May - July 2021",
+            "description": [
+                "Supported the marketing team in conducting research on industry trends and competitors​",
+                "Helped create marketing materials which included social media posts and email newsletters"
+            ]
+        },
+        {
+            "id": "exp-4",
+            "company": "Samsung Electronics Indonesia",
+            "position": "Management Trainee & Key Account |",
+            "duration": "April 2019 - February 2021",
+            "description": [
+                "Manage TV & Home Appliances price point and promotion.",
+                "Maintain in-store visitation frequency to ensure implementation of brand presence and promotion.",
+                "Interact regularly with accounts related to weekly selling, deliveries and stock availability."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "title": "Programming",
+            "tools": [
+                "TypeScript",
+                "JavaScript",
+                "SQL",
+                "React",
+                "NextJs",
+                "React Native",
+                "NodeJs",
+                "Express"
+            ]
+        },
+        {
+            "title": "Web",
+            "tools": [
+                "React",
+                "NextJS",
+                "Prisma ORM",
+                "Tailwind CSS",
+                "NodeJS",
+                "HTML/CSS",
+                "OAuth"
+            ]
+        },
+        {
+            "title": "Databases",
+            "tools": [
+                "MySQL",
+                "Supabase"
+            ]
+        },
+        {
+            "title": "Design & Research",
+            "tools": [
+                "Surveys",
+                "Interviews",
+                "Adobe Photoshop",
+                "Corel Draw",
+                "Adobe Premiere",
+                "Adobe Lightroom"
+            ]
+        }
+    ]
+}
